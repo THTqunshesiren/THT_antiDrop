@@ -1,0 +1,7 @@
+name: THT_AntiDrop
+version: '1.0'
+main: antidrop.tht.tht_antidrop
+api-version: 1.16
+commands:
+  togglead:
+    description: toggleAd
